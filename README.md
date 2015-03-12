@@ -1,2 +1,4 @@
 # hello-world
-Näytetään tekstiä
+Näytetään tässä kohtaan hieman tekstiä.
+Mitä muuta tässä voi tehdä?
+
